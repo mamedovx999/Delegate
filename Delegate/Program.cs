@@ -30,7 +30,7 @@ namespace Delegate
             {
                 new Book("Xosrov ve sirin ","Nizami"),
                 new Book("sevgi","Albert"),
-                new Book("Iskendername ","Nizaami"),
+                new Book("Iskendername ","Nizami"),
                 new Book("Tenha Baki ","Memmedeli"),
                 new Book("Leyli ve mejnun ","Nizami")
             };
